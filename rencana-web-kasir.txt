@@ -1,5 +1,32 @@
 RENCANA WEB KASIR
 - membuat menu utama
+   Visi Koperasi Arkasha:
+"Menjadi koperasi modern yang inklusif dan berdaya saing tinggi, menjadi cahaya penerang bagi kemandirian ekonomi dan kesejahteraan bersama, serta menjadi pusat inovasi dan pemberdayaan masyarakat yang berkelanjutan."
+
+Misi Koperasi Arkasha:
+1. Meningkatkan kesejahteraan anggota melalui program-program ekonomi yang kreatif, inovatif, dan berkelanjutan.  
+2. Membangun ekosistem koperasi yang transparan, akuntabel, dan berbasis teknologi untuk memudahkan pelayanan kepada anggota.  
+3. Memberikan edukasi dan pelatihan kewirausahaan serta pengelolaan keuangan yang efektif untuk memberdayakan anggota.  
+4. Menjalin kemitraan strategis dengan berbagai pihak untuk memperluas jaringan usaha dan meningkatkan kualitas layanan.  
+5. Menjunjung tinggi nilai-nilai kebersamaan, keadilan, dan kekeluargaan dalam setiap langkah pengembangan koperasi.  
+6. Berkontribusi aktif dalam pembangunan masyarakat melalui program-program sosial yang berorientasi pada pemberdayaan dan keberlanjutan.  
+
+Dengan visi dan misi ini, Koperasi Arkasha berkomitmen untuk menjadi mitra terpercaya dalam mewujudkan mimpi dan kesejahteraan bersama.
+
+Profil Koperasi Arkasha  
+
+Nama Koperasi: Arkasha  
+Berdiri Sejak:  1671
+Jenis Koperasi: Koperasi Serba Usaha (KSU)  
+Alamat: Jl Magelang Purworejo Km 10 Ruko Jambu No 3 56161, Sidomukti 2, Sidoagung, Kec. Tempuran, Kabupaten Magelang, Jawa Tengah 56161
+Bidang Usaha: Ekonomi, Pendidikan, dan Pemberdayaan Masyarakat  
+Motto: "Bersinar Bersama, Berkarya untuk Semua"  
+
+Bergabung dengan Kami:
+Arkasha membuka kesempatan bagi siapa saja yang ingin menjadi bagian dari keluarga besar kami. Bersama-sama, kita bisa menciptakan masa depan yang lebih cerah dan sejahtera.  
+
+Arkasha: Sinergi untuk Kesejahteraan Bersama.
+
 - membuat menu login
 - membuat menu sign-up
 - membuat daftar harga barang
